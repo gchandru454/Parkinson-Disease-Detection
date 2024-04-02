@@ -32,4 +32,6 @@ The project aims to increase awareness and understanding of Parkinson's disease 
 # References
 
 1. Dorsey, E. R., Elbaz, A., Nichols, E., Abd-Allah, F., Abdelalim, A., Adsuar, J. C., ... & GBD 2016 Parkinson's Disease Collaborators. (2018). Global, regional, and national burden of Parkinson’s disease, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016. The Lancet Neurology, 17(11), 939-953.
+
+
 2.Poewe, W., Seppi, K., Tanner, C. M., Halliday, G. M., Brundin, P., Volkmann, J., ... & Schrag, A. E. (2017). Parkinson disease. Nature Reviews Disease Primers, 3(1), 1-21.
