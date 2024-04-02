@@ -24,4 +24,12 @@ Clarity and Accessibility: Use language that is clear and accessible to a divers
 ![System Architecture](https://github.com/gchandru454/Parkinson-Disease-Detection/blob/main/Block-diagram-of-the-proposedParkinsons-disease-detection-system.png)
 
 # Output
-![Output]()
+![Output](https://github.com/gchandru454/Parkinson-Disease-Detection/blob/main/Screenshot%202024-03-19%20222237.png)
+
+# Results and Impact
+The project aims to increase awareness and understanding of Parkinson's disease among both the general public and healthcare professionals. By providing comprehensive information on the epidemiology, pathophysiology, diagnosis, and treatment options for Parkinson's disease, the project seeks to empower individuals affected by the condition to make informed decisions about their healthcare. Additionally, by highlighting recent advancements in research and treatment modalities, the project aims to inspire further innovation in the field and foster collaboration among researchers, clinicians, and advocacy groups.
+
+# References
+
+1. Dorsey, E. R., Elbaz, A., Nichols, E., Abd-Allah, F., Abdelalim, A., Adsuar, J. C., ... & GBD 2016 Parkinson's Disease Collaborators. (2018). Global, regional, and national burden of Parkinson’s disease, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016. The Lancet Neurology, 17(11), 939-953.
+2.Poewe, W., Seppi, K., Tanner, C. M., Halliday, G. M., Brundin, P., Volkmann, J., ... & Schrag, A. E. (2017). Parkinson disease. Nature Reviews Disease Primers, 3(1), 1-21.
