@@ -21,4 +21,4 @@ Accuracy and Reliability: Ensure that all information presented in the project i
 
 Clarity and Accessibility: Use language that is clear and accessible to a diverse audience, avoiding jargon whenever possible. Include explanations and definitions for technical terms to enhance understanding.
 # System Architecture
-![System Architecture]()
+![System Architecture](https://github.com/gchandru454/Parkinson-Disease-Detection/blob/main/Block-diagram-of-the-proposedParkinsons-disease-detection-system.png)
